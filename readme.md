@@ -13,4 +13,5 @@
 - feijoada :bacon:
 
 - torta
-- carne 
+- carne
+- feijao
