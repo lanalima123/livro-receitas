@@ -1,8 +1,8 @@
-# **Livro** de receitas :cake:  
+# **Livro** de receitas :cake:
 
 ### olá, bem vindo ao meu livro de receitas
 
-- strogonoff de frango :tomato: 
+- strogonoff de frango :tomato:
 
 - carne de panela :meat_on_bone:
 
@@ -14,10 +14,11 @@
 
 - torta
 
-- carne 
+- carne
 
 - pao
 
 - carne
 
 - feijao
+
